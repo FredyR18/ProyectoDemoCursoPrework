@@ -1,2 +1,2 @@
 # CursoPrework
-verificacion de llaves privada
+verificacion de llaves privadas para el curso de git
