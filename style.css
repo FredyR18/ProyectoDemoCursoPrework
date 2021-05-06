@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header, div {
+    width: 100vw;
+    height: 40px;
+    background-color: aquamarine;
+}
+main {
+    width: 100vw;
+    height: 500px;
+    background-color: burlywood;
+}
+p {
+    color: white;
+    text-align: center;
+    padding-top: 240px;
+}
